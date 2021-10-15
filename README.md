@@ -3,10 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Contents
    Tesla clone site
 ## Front-end tools used--
-   CSS
-   Bootstrap
-   React js
-   Redux
+   CSS <br/>
+   Bootstrap <br/>
+   React js <br/>
+   Redux <br/>
 ## node.js as server
 
 ## Available Scripts
